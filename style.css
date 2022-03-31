@@ -1,0 +1,20 @@
+.about-bod{
+  background-image: url('https://lsusports.net/imgproxy/8awPpHRcW_c7NmmzSSbGnzTKGB30G_3WoaBfhGWGAKk/fit/3840/1720/ce/0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2xzdXNwb3J0cy1jb20vMjAyMS8wNi9kZGU2Mzc0OS10aWdlcl9zdGFkaXVtXzIxNzEtZTE2MjM1MTQwNjUxNDQuanBn.png');
+}
+
+h1 {
+  font-family: 'MonteCarlo', cursive;
+}
+/* Sharon*/
+button {
+   background-color: #ffcccc; 
+  border: solid black 5px;
+  color: blue;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;  cursor: pointer;
+  border-radius: 10px;
+}
